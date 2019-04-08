@@ -1,0 +1,7 @@
+C:\Users\apbol\source\repos\NamePicker\NamePicker\bin\Debug\NamePicker.exe.config
+C:\Users\apbol\source\repos\NamePicker\NamePicker\bin\Debug\NamePicker.exe
+C:\Users\apbol\source\repos\NamePicker\NamePicker\bin\Debug\NamePicker.pdb
+C:\Users\apbol\source\repos\NamePicker\NamePicker\obj\Debug\NamePicker.csprojAssemblyReference.cache
+C:\Users\apbol\source\repos\NamePicker\NamePicker\obj\Debug\NamePicker.csproj.CoreCompileInputs.cache
+C:\Users\apbol\source\repos\NamePicker\NamePicker\obj\Debug\NamePicker.exe
+C:\Users\apbol\source\repos\NamePicker\NamePicker\obj\Debug\NamePicker.pdb
